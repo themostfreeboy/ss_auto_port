@@ -1,0 +1,9 @@
+{
+    "server":"::",
+    "server_port":{PORT},
+    "local_port":1080,
+    "password":"bupt1234",
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open":false
+}
